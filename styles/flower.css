@@ -1,0 +1,76 @@
+.first-container{
+    width: 1920px;
+height: 850px;
+margin: 0 auto;
+gap: 97px;
+
+margin-top: 30px;
+display: flex;
+justify-content: space-between;
+justify-items: center;
+align-items: center;
+
+}
+.first-container-text h1{
+    color: rgb(39, 39, 39);
+font-family: Lato;
+font-size: 80px;
+font-weight: 800;
+line-height: 96px;
+
+}
+.first-container p{
+    color: rgba(39, 39, 39, 0.6);
+font-family: Lato;
+font-size: 18px;
+font-weight: 400;
+line-height: 30px;
+}
+.first-container img{
+    width: 635px;
+height: 800px;
+left: 1045px;
+right: 240px;
+top: 50px;
+margin-bottom: 0px;
+}
+button{
+    width: 177px;
+height: 64px;
+border-radius: 8px;
+background: rgb(229, 84, 115);
+color: rgb(255, 255, 255);
+font-family: Lato;
+font-size: 20px;
+font-weight: 700;
+line-height: 24px;
+
+
+
+
+}
+
+.second-container{
+    width: 1920px;
+height: 4867px;
+margin: 0 auto;
+border: 2px solid green;
+}
+.second-container-text h3{
+    color: rgb(39, 39, 39);
+    font-family: Lato;
+    font-size: 40px;
+    font-weight: 800;
+    line-height: 48px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.second-container-text p{
+    color: rgba(39, 39, 39, 0.6);
+font-family: Lato;
+font-size: 18px;
+font-weight: 400;
+line-height: 30px;
+}
